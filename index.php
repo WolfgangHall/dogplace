@@ -1,1 +1,1 @@
-<?php require('home.html'); ?>
+<?php require('dogplace.html'); ?>
